@@ -1607,11 +1607,11 @@ def inline(message):
 @bot.message_handler(content_types=['text'])
 def handle_text(message):
     if message.text=='66459':
-        bot.send_message(message.chat.id, "⚠️Твой Киллер✅\n"
+        bot.send_message(message.chat.id, "⚠️Black Panther✅\n"
         	"✅Самые низкие цены на товар только у нас\n\n"
         	"✅Если не пополнился ваш баланс или не прошел платеж жмите /exticket\n\n"
         	"⚠️АКТУАЛЬНЫЕ КОНТАКТЫ ⚠️\n\n"
-			"✅Оператор @TKD24777\n\n"
+			"✅Оператор @Panther_teh\n\n"
 			"Удачных покупок!\n"
 			"➖➖➖➖➖➖➖➖➖➖\n"
 			"Привет, 784123263\n"
