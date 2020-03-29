@@ -1,7 +1,7 @@
 from telebot import types
 import time
 import telebot
-bot = telebot.TeleBot("1121308954:AAHKStMNlL8SpsrGkI92KwDKSRtRr6l0mq0")
+bot = telebot.TeleBot("1133182259:AAHTk_5n-p8wqVTDUygZKG0jwhNUD6GjN-8")
 
 @bot.message_handler(commands=["start","exticket","pay","balance"])
 def inline(message):
@@ -1611,7 +1611,7 @@ def handle_text(message):
         	"✅Самые низкие цены на товар только у нас\n\n"
         	"✅Если не пополнился ваш баланс или не прошел платеж жмите /exticket\n\n"
         	"⚠️АКТУАЛЬНЫЕ КОНТАКТЫ ⚠️\n\n"
-			"✅Оператор @Panther_teh\n\n"
+			"✅Оператор @PantherTeh\n\n"
 			"Удачных покупок!\n"
 			"➖➖➖➖➖➖➖➖➖➖\n"
 			"Привет, 784123263\n"
